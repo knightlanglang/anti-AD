@@ -37855,7 +37855,6 @@
 ||adsmogo.com^
 ||adsunflower.com^
 ||adsys.chinacloudapp.cn^
-||xdrig.com^
 ||adui.tg.meitu.com^
 ||rabbit.tg.meitu.com^
 ||tuiguang.meitu.com^
@@ -40447,7 +40446,6 @@
 ||shj.tjawst.com^
 ||short-video.kakamobi.cn^
 ||smart-789.kakamobi.cn^
-||shouji.sougou.com^
 ||shzyjbr.wtdtjs.rocks^
 ||si.efwga.xyz^
 ||sina.yinstar.org^
