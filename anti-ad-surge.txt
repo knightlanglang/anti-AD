@@ -1,5 +1,5 @@
 #TIME=20191231130451
-#URL=https://github.com/privacy-protection-tools/anti-AD
+#URL=https://github.com/knightlanglang/anti-AD
 [RULE]
 DOMAIN-SUFFIX,0024aaaa.com,REJECT
 DOMAIN-SUFFIX,0026645142c89aeb1.com,REJECT
@@ -37972,7 +37972,6 @@ DOMAIN-SUFFIX,tuiguang.yicha.cn,REJECT
 DOMAIN-SUFFIX,adsmogo.com,REJECT
 DOMAIN-SUFFIX,adsunflower.com,REJECT
 DOMAIN-SUFFIX,adsys.chinacloudapp.cn,REJECT
-DOMAIN-SUFFIX,xdrig.com,REJECT
 DOMAIN-SUFFIX,adui.tg.meitu.com,REJECT
 DOMAIN-SUFFIX,rabbit.tg.meitu.com,REJECT
 DOMAIN-SUFFIX,tuiguang.meitu.com,REJECT
@@ -40650,7 +40649,6 @@ DOMAIN-SUFFIX,shizen-no-megumi.com,REJECT
 DOMAIN-SUFFIX,shj.tjawst.com,REJECT
 DOMAIN-SUFFIX,short-video.kakamobi.cn,REJECT
 DOMAIN-SUFFIX,smart-789.kakamobi.cn,REJECT
-DOMAIN-SUFFIX,shouji.sougou.com,REJECT
 DOMAIN-SUFFIX,shzyjbr.wtdtjs.rocks,REJECT
 DOMAIN-SUFFIX,si.efwga.xyz,REJECT
 DOMAIN-SUFFIX,sina.yinstar.org,REJECT
